@@ -1,0 +1,245 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+/*header start*/
+header {
+	background-color: #FCDB00;
+	padding: 40px 0;
+	padding-bottom: 100px;
+}
+.wrapper {
+	overflow: hidden;
+	width: 70%;
+	margin: 0 auto;
+
+}
+
+.logo {
+
+float: left;
+width: 30%;
+}
+.logo img{
+	width: 15%;
+	float: left;
+	margin-right: 10px;
+}
+.logo_content{
+font-size: 30px;
+margin-top: 10px;
+width: 70%;
+float: left;
+font-weight: bold;
+}
+.nav {
+
+float: right;
+margin top: 10px;
+width: 70%;
+}
+.nav ul{
+list-style: none;
+float: right;
+}
+.nav ul li{
+float: left;
+margin-right: 10px;
+}
+.nav ul li a {
+text-decoration: none;
+color: black;
+display: block;
+font-size: 25px;
+margin-left: 60px;
+font-weight: bold;
+}
+/*header end*/
+/*banner start*/
+.banner {
+	overflow: hidden;
+background-color: #FCDB00;
+}
+
+.banner_left {
+float: left;
+width: 30%;
+}
+.banner_left h1{
+	font-size: 27px;
+    margin-bottom: 21px;
+}
+.banner_left h3{
+	    font-size: 16px;
+    margin: 17px 0;
+}
+.banner_left p{
+	margin: 33px 0;
+}
+.banner_icon {
+    margin-right: 26px;
+}
+.banner_icon img{
+	width: 13%;
+}
+.banner_right {
+float: right;
+width: 30%;
+}
+.banner_right img{
+	width: 100%;
+	margin-bottom: 35%;
+
+}
+.banner_icon a{
+margin-right: 20px;
+}
+/*banner end*/
+/*service start*/
+.service {
+
+}
+
+.service_header {
+
+}
+.service_header h1 {
+    text-align: center;
+    padding-top: 86px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+.service_header p {
+	text-align: center;
+    font-size: 18px;
+}
+.service_features {
+
+}
+
+.service_blog {
+    overflow: hidden;
+    padding-top: 85px;
+}
+
+.blog_1 {
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    padding-bottom: 70px;
+    padding-left: 3%;
+}
+
+.icon_1 {
+   float: left;
+    width: 15%;
+    margin-right: 15px;
+}
+.blog_content {
+    float: left;
+    width: 70%;
+}
+.blog_content h1 {
+	font-size: 22px;
+}
+.blog_content p {
+
+}
+/*service end*/
+/*footer start*/
+.footer {
+	background-color: black;
+}
+
+.footer_input {
+}
+
+.footer_header {
+	padding-bottom: 55px;
+}
+.footer_header h1{
+	text-align: center;
+    padding-top: 86px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    color: #fcdb00;
+}
+.footer_header p{
+	text-align: center;
+    margin-bottom: -14px;
+    font-size: 18px;
+    color: white;
+}
+.paragraph {
+}
+
+.footer_form {
+	padding-bottom: 55px;
+	text-align: center;
+    position: relative;
+    padding-bottom: 28px;
+    
+}
+.footer_form input{
+	padding: 12px 0px;
+    width: 50%;
+    border-radius: 4px;
+    border-style: none;
+}
+
+.footer_form button{
+	background-color: yellow;
+    padding: 12px 0;
+    width: 10%;
+    border-radius: 4px;
+    border-style: none;
+}
+
+.footer_icon {
+	overflow: hidden;
+    width: 50%;
+    text-align: center;
+    padding-left: 196px;
+    padding-bottom: 50px;
+    margin-left: 13%;
+}
+
+.footer_icon a{
+	float: left;
+	padding: 0px 20px;
+
+}
+
+.address {
+	background-color: black;
+}
+
+.adinformation {
+	overflow: hidden;
+}
+
+.address_detail {
+	    width: 18%;
+    float: left;
+    padding-right: 16px;
+}
+.address_detail p{
+	color: white;
+    font-size: 14px;
+}
+.ad {
+	float: left;
+    width: 15%;
+    padding-left: 40px;
+}
+.ad ul{
+
+}
+.ad ul li{
+
+}
+.ad ul li a {
+    text-decoration: none;
+    color: white;
+}
+/*footer start*/
